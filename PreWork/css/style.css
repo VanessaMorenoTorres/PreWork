@@ -1,0 +1,52 @@
+.favThings{
+    font-weight: bold;
+    color:palevioletred;
+    }
+h1{
+    color: purple;
+    }
+p{
+    font-size: 11pt;
+    color: purple;
+    font-family: Tahoma;
+    margin-right: 50%;
+    }
+img{
+    float: right;
+}
+    li{font-style: italic;
+    color: mediumvioletred;}
+body{
+    background-color: plum;
+    margin: 30pt;
+    padding: 10pt;
+    }
+a{
+    color: mediumvioletred;
+    }
+nav{
+    font-size: 13pt;
+    font-style: italic;}
+h3{
+    color: mediumvioletred;
+    }
+form{
+    padding: 18px;
+    background-color: lightpink;
+    border: solid purple;
+    width: 170pt;
+    }
+input[type=button]:hover{
+    background-color: mediumvioletred;
+    padding: 3px;
+    }
+table{
+    color: purple;
+    width: 600px;
+    }
+#div4{
+    background-color: rgb(215, 158, 223);
+    width: 600px;
+    height: 750px;
+    padding: 18px;
+    }
